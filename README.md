@@ -5,7 +5,7 @@ ENG
 
 Set of materials for printing and facilitating knowledge and creation of crowdfunding campaigns for the Commons 
 
-- For accessing the files, go to the "Releases" section
+- For accessing the files, go to the "Releases" section: https://github.com/Goteo/3D-Kit-for-open-crowdfunding/releases
 
 This repository holds the collection of files needed for printing materials for crowdfunding workshops by Goteo, like the ones described here: http://goteo.org/service/workshop 
 
@@ -35,7 +35,7 @@ ESP
 
 Conjunto de materiales para impresión y facilitar el conocimiento y la creación de campañas de crowdfunding para proyectos abiertos
 
-- Para acceder a los archivos, ir a la sección "Releases"
+- Para acceder a los archivos, ir a la sección "Releases": https://github.com/Goteo/3D-Kit-for-open-crowdfunding/releases
 
 Este repositorio contiene la colección de los archivos necesarios para la impresión de materiales para talleres de crowdfunding por Goteo, como los que se describen a continuación: http://goteo.org/service/workshop
 
