@@ -21,7 +21,7 @@ Other material needed
 
 For the workshops there’s other material needed in order to make the process work, such as:
 
-. Transparent plastic cups or glasses 
+- Transparent plastic cups or glasses 
 - Printed files with summaries of real campaigns, for the thermometers of indicators 
 - Small Postits for identifying perks and collective rewards on the corresponding diagrams, as well as on the campaign communication matrix
 
