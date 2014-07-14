@@ -31,6 +31,8 @@ More info:
 
 Those materials could be used individually or even in small groups with people interested in crowdfunding for their own projects, where physical assessment is a key factor in order to go through all the possible activities, enabling discussion among participants and narrowing down when working on specific projects. If you are an institution or individual interested in training/facilitation for this workshop or get it as a service from the Goteo team for bigger groups up to 30, you can contact us at: http://goteo.org/contact  
 
+ToDo: Upload wood boards designs for laser cutter and detailed instructions for each activity with materials. 
+
 ESP
 
 Conjunto de materiales para impresión y facilitar el conocimiento y la creación de campañas de crowdfunding para proyectos abiertos
@@ -60,3 +62,5 @@ Para los talleres hay otro material necesario con el fin de hacer funcionar el p
 Más información:
 
 Estos materiales pueden ser utilizados individualmente o en pequeños grupos con personas interesadas en el crowdfunding para sus propios proyectos, en los que la evaluación física es un factor clave con el fin de pasar por todas las actividades posibles, lo que permite la discusión entre los participantes y el filtrado a la hora de trabajar en proyectos específicos. Si representas a una institución o persona interesada en la formación mediante este workshop o como un servicio del equipo de Goteo para grupos más grandes de hasta 30 personas, puedes ponerte en contacto con nosotros en: http://goteo.org/contact
+
+ToDo: Subir diseños de madera para cortadora laser e instrucciones detalladas para cada actividad con los materiales.
