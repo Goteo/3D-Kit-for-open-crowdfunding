@@ -3,7 +3,7 @@
 
 ENG
 
-Set of materials for printing and facilitating knowledge and creation of crowdfunding campaigns for the Commons 
+Set of materials for printing and facilitating knowledge and creation of crowdfunding campaigns for the Commons. By Goteo / FabLab Barcelona
 
 - For accessing the files, go to the "Releases" section: https://github.com/Goteo/3D-Kit-for-open-crowdfunding/releases
 
@@ -35,7 +35,7 @@ ToDo: Upload wood boards designs for laser cutter and detailed instructions for 
 
 ESP
 
-Conjunto de materiales para impresión y facilitar el conocimiento y la creación de campañas de crowdfunding para proyectos abiertos
+Conjunto de materiales para impresión y facilitar el conocimiento y la creación de campañas de crowdfunding para proyectos abiertos. Por Goteo / FabLab Barcelona
 
 - Para acceder a los archivos, ir a la sección "Releases": https://github.com/Goteo/3D-Kit-for-open-crowdfunding/releases
 
